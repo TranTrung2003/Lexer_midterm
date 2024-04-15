@@ -20,6 +20,6 @@ less example_gcd.vctok
 2 sample `*.vc` files inside code directory.
 ## Output
 - Corresponding `*.vctok` files with each line containing a token and its info.
-- DFA.dat file containing starting (0), terminal states with its identified morphemes and transition table.
+- DFA.dat file containing starting (0), terminal states with their identified morphemes and transition table.
 
 
